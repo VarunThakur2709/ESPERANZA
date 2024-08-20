@@ -1,5 +1,8 @@
 ## Overview
 Esperanza is a web application designed to streamline the process of booking appointments for various health services, including physiotherapy, mental health care, and diet nutrition. Our platform aims to promote holistic well-being by providing a convenient and user-friendly interface for users to connect with qualified professionals in these fields.
+Special Thanks to 
+Abhinav Kadam 
+https://www.linkedin.com/in/abhinav-kadam-4a76b6312?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app 
 
 ## Key Features
 - **Service Variety:** HealthHub offers a diverse range of health services, including physiotherapy sessions to improve physical well-being, mental health care for emotional and psychological support, and diet nutrition consultations for personalized dietary guidance.
